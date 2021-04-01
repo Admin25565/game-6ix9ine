@@ -1,15 +1,16 @@
 .body {
     margin: 0px, auto;
 }
+
+.bottom {
+    margin: 0, auto;
+    text-align: center;
+}
+
 .sixine {
     height: 300px ;
     width: 300px;
     margin: 0px, auto;
     margin-left: 180px; 
 
-}
-
-.bottom {
-    margin: 0, auto;
-    text-align: center;
 }
